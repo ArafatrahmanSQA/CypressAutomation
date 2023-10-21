@@ -22,4 +22,4 @@ import './commands'
 
 beforeEach(function(){
     cy.log('Login Function Test');
-})
+}) 
